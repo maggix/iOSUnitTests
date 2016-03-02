@@ -1,4 +1,6 @@
-UnitTests illustrates the use of unit tests to ensure that an app’s
+[![Build Status](https://travis-ci.org/maggix/iOSUnitTests.svg?branch=master)](https://travis-ci.org/maggix/iOSUnitTests)
+
+UnitTests illustrates the use of unit tests to ensure that an app√ïs
 functionality does not degrade as its source code undergoes changes to improve
 the app or to fix bugs. The projects in the UnitTests workspace showcase two 
 types of unit tests: logic and application. Logic unit tests allow for
@@ -26,7 +28,7 @@ The Calculator class implements a calculating engine that has two main methods:
 input: and displayValue.
 - The input: method accepts a one-character string as input, which represents
   a key press.
-- The displayValue method provides the value representing the calculator’s 
+- The displayValue method provides the value representing the calculator√ïs 
   output.
 
 ========== The iOS_Calc Project ===============================================
@@ -129,4 +131,4 @@ Changes from Previous Versions
 1.0 First Release
 
 
-Copyright © 2014-2012 Apple Inc. All rights reserved.
+Copyright ¬© 2014-2012 Apple Inc. All rights reserved.
